@@ -1,0 +1,1 @@
+This is a demo written for newer users that want to learn how to store data on a Micro SD Card. It is very similar to demo programs for the larger size SD Cards.
